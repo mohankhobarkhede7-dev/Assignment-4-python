@@ -20,3 +20,7 @@ Problem Statement: Write a Python program that:
 2.   Appends additional data to the same file.
 
 3.   Reads and displays the final content of the file.
+
+input:
+Enter text to write into the file: Python File Handling
+Enter additional text to append: This is appended text
