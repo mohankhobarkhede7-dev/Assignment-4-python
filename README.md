@@ -21,6 +21,6 @@ Problem Statement: Write a Python program that:
 
 3.   Reads and displays the final content of the file.
 
-input:
-Enter text to write into the file: Python File Handling
+input:Hello
+Enter text to write into the file: Hello Python!
 Enter additional text to append: This is appended text
